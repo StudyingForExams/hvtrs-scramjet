@@ -1,0 +1,15 @@
+{
+  "name": "hvtrs-scramjet-proxy",
+  "version": "1.0.0",
+  "description": "HVTRS-style proxy using Scramjet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "scramjet": "^4.4.0"
+  }
+}
